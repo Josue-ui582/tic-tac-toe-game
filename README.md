@@ -38,4 +38,27 @@ tic-tac-toe/
 └── script.js          # Logique du jeu (modulaire)
 ```
 
+## 📚 Ce que j’ai appris
 
+- Encapsulation et séparation des responsabilités avec JavaScript
+
+- Manipulation du DOM de manière propre et modulaire
+
+- Logique de détection de victoire sur une grille
+
+- Création d’interfaces utilisateurs dynamiques
+
+## ✅ Améliorations possibles
+
+- Ajouter une IA pour jouer contre l'ordinateur
+
+- Sauvegarder le score des joueurs
+
+- Ajouter des animations ou sons de victoire
+
+- Surligner la ligne gagnante
+
+- Rendre le jeu responsive sur mobile
+
+## 🙌 Remerciements
+Projet inspiré par le parcours JavaScript de The Odin Project.
